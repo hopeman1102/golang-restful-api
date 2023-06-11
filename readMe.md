@@ -4,8 +4,6 @@
 
 In this article, you'll learn how to set up a Golang application with MongoDB-Go-driver, Gin Gonic, and Go Redis. Later, we'll access both the Redis and MongoDB databases directly in VS Code using a MySQL VS Code extension.
 
-![API with Golang + MongoDB + Redis + Gin Gonic: Project Setup](https://codevoweb.com/wp-content/uploads/2022/05/API-with-Golang-MongoDB-Redis-and-Gin-Gonic-Project-Setup.webp)
-
 ### Topics Covered
 
 - Setup Golang with MongoDB and Redis
@@ -15,14 +13,9 @@ In this article, you'll learn how to set up a Golang application with MongoDB-Go
 - Test the Golang API
 - How to Connect to MongoDB and Redis Servers in VS Code
 
-Read the entire article here: [https://codevoweb.com/api-golang-mongodb-gin-gonic-project-setup](https://codevoweb.com/api-golang-mongodb-gin-gonic-project-setup)
-
-
 ## 2. Golang & MongoDB: JWT Authentication and Authorization
 
 In this article, you'll learn how to implement RS256 JWT (JSON Web Token) Authentication and Authorization with Golang, Gin Gonic, MongoDB-Go-driver, and Docker-compose.
-
-![Golang & MongoDB: JWT Authentication and Authorization](https://codevoweb.com/wp-content/uploads/2022/05/Golang-and-MongoDB-JWT-Authentication-and-Authorization.webp)
 
 ### Topics Covered
 
@@ -53,13 +46,9 @@ In this article, you'll learn how to implement RS256 JWT (JSON Web Token) Authen
     - User Routes
 - Add the Routes to the Gin Middleware Pipeline
 
-Read the entire article here: [https://codevoweb.com/golang-mongodb-jwt-authentication-authorization](https://codevoweb.com/golang-mongodb-jwt-authentication-authorization)
-
 ## 3. API with Golang + MongoDB: Send HTML Emails with Gomail
 
 In this article, you'll learn how to send HTML emails with Golang, Gomail, MongoDB-Go-Driver, Redis, and Docker-compose. Also, you'll learn how to generate HTML templates with the standard Golang html/template package.
-
-![API with Golang + MongoDB: Send HTML Emails with Gomail](https://codevoweb.com/wp-content/uploads/2022/05/API-with-Golang-MongoDB-Send-HTML-Emails-with-Gomail.webp)
 
 ### Topics Covered
 
@@ -70,14 +59,9 @@ In this article, you'll learn how to send HTML emails with Golang, Gomail, Mongo
 - Create a Utility Function to Send the Emails
 - Update the SignUp Controller
 
-Read the entire article here: [https://codevoweb.com/api-golang-mongodb-send-html-emails-gomail](https://codevoweb.com/api-golang-mongodb-send-html-emails-gomail)
-
-
 ## 4. API with Golang, Gin Gonic & MongoDB: Forget/Reset Password
 
 In this article, you'll learn how to implement forget/reset password functionality with Golang, Gin Gonic, Gomail, MongoDB-Go-driver, Redis, and Docker-compose. 
-
-![API with Golang, Gin Gonic & MongoDB: Forget/Reset Password](https://codevoweb.com/wp-content/uploads/2022/05/API-with-Golang-Gin-Gonic-MongoDB-Forget-Reset-Password.webp)
 
 ### Topics Covered
 
@@ -90,14 +74,9 @@ In this article, you'll learn how to implement forget/reset password functionali
 - Add the Reset Password Controller
 - Register the Gin API Routes
 
-Read the entire article here: [https://codevoweb.com/api-golang-gin-gonic-mongodb-forget-reset-password](https://codevoweb.com/api-golang-gin-gonic-mongodb-forget-reset-password)
-
-
 ## 5. Build Golang gRPC Server and Client: SignUp User & Verify Email
 
 In this article, you'll learn how to create a gRPC server to register a user and verify their email address using Golang, MongoDB-Go-driver, Gomail, and Docker-compose. 
-
-![Build Golang gRPC Server and Client: SignUp User & Verify Email](https://codevoweb.com/wp-content/uploads/2022/05/Build-Golang-gRPC-Server-and-Client-SignUp-User-Verify-Email.webp)
 
 ### Topics Covered
 
@@ -114,13 +93,9 @@ In this article, you'll learn how to create a gRPC server to register a user and
     - Verify User gRPC Controller
 - Create the gRPC Client to Register a User
 
-Read the entire article here: [https://codevoweb.com/golang-grpc-server-and-client-signup-user-verify-email](https://codevoweb.com/golang-grpc-server-and-client-signup-user-verify-email)
-
 ## 6. Build Golang gRPC Server and Client: Access & Refresh Tokens
 
 In this article, you'll learn how to implement JWT access and refresh tokens with gRPC using Golang, MongoDB-Go-driver, Gomail, Docker, and Docker-compose.
-
-![Build Golang gRPC Server and Client: Access & Refresh Tokens](https://codevoweb.com/wp-content/uploads/2022/05/Build-Golang-gRPC-Server-and-Client-Access-Refresh-Tokens.webp)
 
 ### Topics Covered
 
@@ -135,13 +110,9 @@ In this article, you'll learn how to implement JWT access and refresh tokens wit
 - Create the gRPC Clients in Golang
 - Connect the gRPC Client to the gRPC Server
 
-Read the entire article here: [https://codevoweb.com/golang-grpc-server-and-client-access-refresh-tokens](https://codevoweb.com/golang-grpc-server-and-client-access-refresh-tokens)
-
 ## 7. Build CRUD RESTful API Server with Golang, Gin, and MongoDB
 
 In this article, you'll learn how to build a CRUD RESTful API server with Golang, Gin Gonic, MongoDB-Go-driver, Docker, and Docker-compose.
-
-![Build CRUD RESTful API Server with Golang, Gin, and MongoDB](https://codevoweb.com/wp-content/uploads/2022/05/Build-CRUD-RESTful-API-Server-with-Golang-Gin-and-MongoDB.webp)
 
 ### Topics Covered
 
@@ -165,14 +136,10 @@ In this article, you'll learn how to build a CRUD RESTful API server with Golang
 - Create the Routes for the Controllers
 - Initialize the Constructors and Start the Gin Server
 
-Read the entire article here: [https://codevoweb.com/crud-restful-api-server-with-golang-and-mongodb](https://codevoweb.com/crud-restful-api-server-with-golang-and-mongodb)
-
 
 ## 8. Build CRUD gRPC Server API & Client with Golang and MongoDB
 
 In this article, you'll learn how to build a CRUD gRPC API server with Golang, MongoDB-Go-driver, and Docker-compose. You'll also build a gRPC client to interact with the gRPC API.
-
-![Build CRUD gRPC Server API & Client with Golang and MongoDB](https://codevoweb.com/wp-content/uploads/2022/06/Build-CRUD-gRPC-Server-API-Client-with-Golang-and-MongoDB.webp)
 
 ### Topics Covered
 
@@ -204,5 +171,3 @@ In this article, you'll learn how to build a CRUD gRPC API server with Golang, M
     - gRPC Client to Get All Posts
     - gRPC Client to Delete a Post
 - Register the gRPC Services
-
-Read the entire article here: [https://codevoweb.com/crud-grpc-server-api-client-with-golang-and-mongodb](https://codevoweb.com/crud-grpc-server-api-client-with-golang-and-mongodb)
